@@ -1,5 +1,8 @@
 # PlaceBook - Backend
 
+deployment link
+https://placebook-015dbd92649b.herokuapp.com/
+
 ### Frontend Repository
 
 https://github.com/katieloesch/mern-location-app-frontend

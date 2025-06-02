@@ -59,7 +59,7 @@ app.use((error, req, res, next) => {
 mongoose
   .connect(MONGODB_URL)
   .then(() => {
-    app.listen(5100, () => {
+    app.listen(process.env.PORT || 5100, () => {
       console.log('server running on port 5100...');
     });
   })
