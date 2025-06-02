@@ -1,0 +1,11 @@
+{
+  "env": {
+    "MAPS_API_KEY": "AIzaSyAwUiriV4ULbgM81NB_3xWfcNiFsvg6zws",
+    "DB_USER": "katie",
+    "DB_PASSWORD": "MEILx7mwRSkRCcyP",
+    "DB_NAME": "placebook",
+    "MONGODB_URL": "mongodb+srv://katie:MEILx7mwRSkRCcyP@cluster0.iz4gc.mongodb.net/placebook?retryWrites=true&w=majority&appName=Cluster0",
+    "JWT_SECRET": "super_secret_stuff",
+    "JWT_EXPIRES_IN": "1h"
+  }
+}
